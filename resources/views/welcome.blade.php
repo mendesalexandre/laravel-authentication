@@ -8,7 +8,7 @@
 
 <body>
 
-    <h1>Laravel - Site 1</h1>
+    <h1>Laravel - Site 2</h1>
 
 </body>
 </html>
